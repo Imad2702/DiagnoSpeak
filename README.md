@@ -25,7 +25,7 @@
 1. **Clone the repository**
 
 ```
-git clone https://github.com/imaduddin27/DiagnoSpeak
+git clone https://github.com/imad2702/DiagnoSpeak
 cd DiagnoSpeak
 ```
 
